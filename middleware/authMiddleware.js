@@ -1,4 +1,4 @@
-import JWT from "json-web-token"
+import JWT from "jsonwebtoken"
 
 //Protected Routes token base
 
